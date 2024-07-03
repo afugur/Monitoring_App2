@@ -1,6 +1,6 @@
-# Real-time Monitoring Dashboard with Angular, SignalR, and Flutter
+# Real-time Monitoring with Angular, SignalR, and Flutter
 
-This project is a real-time monitoring dashboard built with Angular for the web frontend, SignalR for real-time data communication, and Flutter for the mobile application. The dashboard displays real-time data updates in charts and allows downloading data in CSV format.
+This project is a real-time monitoring built with Angular for the web frontend, SignalR for real-time data communication, and Flutter for the mobile application. The dashboard displays real-time data updates in charts and allows downloading data in CSV format.
 
 ## Features
 

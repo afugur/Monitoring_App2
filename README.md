@@ -2,6 +2,7 @@
 
 This project is a real-time monitoring built with Angular for the web frontend, SignalR for real-time data communication, and Flutter for the mobile application. The dashboard displays real-time data updates in charts and allows downloading data in CSV format.
 
+![FlowAnimation](https://github.com/afugur/Monitoring_App2/assets/62245496/c5121d63-b443-4746-aa90-8a9796f6e804)
 ## Features
 
 - Real-time data updates using SignalR
@@ -39,6 +40,7 @@ This project is a real-time monitoring built with Angular for the web frontend, 
     ```sh
     dotnet run
     ```
+
 
 ### Angular Application
 
@@ -128,3 +130,4 @@ The Flutter application uses a queue to store incoming data points and ensures t
 ## Conclusion
 
 This project demonstrates a real-time monitoring dashboard with Angular and SignalR for the web, and Flutter for the mobile application. The dashboard provides real-time data updates, visualization in charts, and data download functionality.
+
